@@ -1,3 +1,16 @@
-[
-  
-]
+{
+  "_v": 1775260366939,
+  "items": [
+    {
+      "id": 1775260366938,
+      "name": "Hkgkj",
+      "price": "4788",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/langryaloosh@main/images/img_1775260354525_4627.webp",
+      "desc": "نار عالاخر",
+      "old_price": "578",
+      "badge_text": "وصل من شوي",
+      "cat": "منتجات",
+      "is_offer": true
+    }
+  ]
+}
